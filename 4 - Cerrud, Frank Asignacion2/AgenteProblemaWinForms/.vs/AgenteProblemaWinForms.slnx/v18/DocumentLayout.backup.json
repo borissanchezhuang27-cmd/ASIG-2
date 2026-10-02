@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\agenteproblemawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|solutionrelative:agenteproblemawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\agenteproblemawinforms\\agenteproblemawinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|solutionrelative:agenteproblemawinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\agenteproblemawinforms\\agenteproblemawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2690F7AE-A8EB-DFED-527A-413CFDCEE7F7}|AgenteProblemaWinForms\\AgenteProblemaWinForms.csproj|solutionrelative:agenteproblemawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AgenteProblemaWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AgenteProblemaWinForms\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:40:24.495Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AgenteProblemaWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.Designer.cs*",
+              "RelativeToolTip": "AgenteProblemaWinForms\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:35:32.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AgenteProblemaWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\AgenteProblemaWinForms\\AgenteProblemaWinForms\\Form1.cs*",
+              "RelativeToolTip": "AgenteProblemaWinForms\\Form1.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:24:27.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
