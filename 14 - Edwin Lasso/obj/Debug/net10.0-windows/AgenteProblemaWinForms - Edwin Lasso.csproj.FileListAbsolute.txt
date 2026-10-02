@@ -1,0 +1,67 @@
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.exe
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.deps.json
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.runtimeconfig.json
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.pdb
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms___Edwin_Lasso.Form1.resources
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.csproj.GenerateResource.cache
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.AssemblyInfoInputs.cache
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.AssemblyInfo.cs
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.csproj.CoreCompileInputs.cache
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.sourcelink.json
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\refint\AgenteProblemaWinForms - Edwin Lasso.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.pdb
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.genruntimeconfig.cache
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\ref\AgenteProblemaWinForms - Edwin Lasso.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgentePr.8A8B4285.Up2Date
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Agents.AI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Agents.AI.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Agents.AI.OpenAI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.AI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.AI.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.AI.Evaluation.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.AI.OpenAI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.VectorData.Abstractions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.ML.Tokenizers.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\OpenAI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\System.Numerics.Tensors.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms - Edwin Lasso.csproj.AssemblyReference.cache
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Google.Apis.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Google.Apis.Auth.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Google.Apis.Core.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Google.GenAI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Humanizer.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Json.More.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\JsonPointer.Net.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\JsonSchema.Net.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\JsonSchema.Net.Generation.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Http.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Mscc.GenerativeAI.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Mscc.GenerativeAI.Microsoft.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\System.Management.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\DESARROLLO IV\AgenteProblemaWinForms - Edwin Lasso\obj\Debug\net10.0-windows\AgenteProblemaWinForms___Edwin_Lasso.Properties.Resources.resources

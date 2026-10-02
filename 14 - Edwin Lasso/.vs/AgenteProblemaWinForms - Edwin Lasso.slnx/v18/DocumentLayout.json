@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\agentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:agentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\tools\\supporttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:tools\\supporttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\geminiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:geminiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DCC54-9D71-4A81-89C5-F43A4C08C704}|AgenteProblemaWinForms - Edwin Lasso.csproj|D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{021DCC54-9D71-4A81-89C5-F43A4C08C704}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\chatrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:chatrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|d:\\desarrollo iv\\asignaci\u00F3n 2-  agenteproblemawinforms - edwin lasso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9AF388-A2A5-A803-EA0C-BAAB46A7C178}|AgenteProblemaWinForms - Edwin Lasso.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:51:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatRenderer.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\ChatRenderer.cs",
+              "RelativeDocumentMoniker": "ChatRenderer.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\ChatRenderer.cs",
+              "RelativeToolTip": "ChatRenderer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:51:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIStyles.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\UIStyles.cs",
+              "RelativeDocumentMoniker": "UIStyles.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\UIStyles.cs",
+              "RelativeToolTip": "UIStyles.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAHABAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:44:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:00:36.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupportTools.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Tools\\SupportTools.cs",
+              "RelativeDocumentMoniker": "Tools\\SupportTools.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Tools\\SupportTools.cs",
+              "RelativeToolTip": "Tools\\SupportTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T04:33:50.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiConfig.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\GeminiConfig.cs",
+              "RelativeDocumentMoniker": "GeminiConfig.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\GeminiConfig.cs",
+              "RelativeToolTip": "GeminiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T04:03:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentFactory.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\AgentFactory.cs",
+              "RelativeDocumentMoniker": "AgentFactory.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\AgentFactory.cs",
+              "RelativeToolTip": "AgentFactory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T02:15:14.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T02:10:09.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DESARROLLO IV\\Asignaci\u00F3n 2-  AgenteProblemaWinForms - Edwin Lasso\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DESARROLLO IV\\AgenteProblemaWinForms - Edwin Lasso\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\AgenteProblemaWinForms - Edwin Lasso\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:31:58.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
